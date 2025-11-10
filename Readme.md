@@ -92,7 +92,7 @@ Players will be able to:
 
 ## Project Links
 
-- **GitHub Repository:** [Insert your GitHub repository link here]  
+- **GitHub Repository:** https://github.com/Solobored/Games  
 - **Trello Board:** https://trello.com/b/enSL02Yh/net-software-development  
 
 Ensure both links are public for instructor review.
